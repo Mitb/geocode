@@ -1,6 +1,6 @@
 {
   "name": "geocode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a geocoder with cache",
   "main": "lib/index.js",
   "scripts": {
